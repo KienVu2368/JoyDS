@@ -58,3 +58,4 @@ docs/_build/
 target/
 /paper/data/
 *.ipynb_checkpoints
+/.vscode/
