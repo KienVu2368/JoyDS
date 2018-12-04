@@ -1,1 +1,1 @@
-JoyML
+"If you're not having fun, you're not learning. There's a pleasure in finding things out" - Richard Feynman
